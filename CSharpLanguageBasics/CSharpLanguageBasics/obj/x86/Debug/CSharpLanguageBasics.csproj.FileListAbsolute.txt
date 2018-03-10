@@ -1,0 +1,5 @@
+/Users/Mtschannen/Projects/CSharpLanguageBasics/CSharpLanguageBasics/bin/Debug/CSharpLanguageBasics.exe
+/Users/Mtschannen/Projects/CSharpLanguageBasics/CSharpLanguageBasics/bin/Debug/CSharpLanguageBasics.pdb
+/Users/Mtschannen/Projects/CSharpLanguageBasics/CSharpLanguageBasics/obj/x86/Debug/CSharpLanguageBasics.csproj.CoreCompileInputs.cache
+/Users/Mtschannen/Projects/CSharpLanguageBasics/CSharpLanguageBasics/obj/x86/Debug/CSharpLanguageBasics.exe
+/Users/Mtschannen/Projects/CSharpLanguageBasics/CSharpLanguageBasics/obj/x86/Debug/CSharpLanguageBasics.pdb
